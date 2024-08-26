@@ -12,3 +12,9 @@ C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista 
 C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista de atividade 2\QT1\obj\Debug\net8.0\QT1.pdb
 C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista de atividade 2\QT1\obj\Debug\net8.0\QT1.genruntimeconfig.cache
 C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista de atividade 2\QT1\obj\Debug\net8.0\ref\QT1.dll
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista de atividade 2\QT1\build\QT1.exe
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista de atividade 2\QT1\build\QT1.deps.json
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista de atividade 2\QT1\build\QT1.runtimeconfig.json
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista de atividade 2\QT1\build\QT1.dll
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista de atividade 2\QT1\build\QT1.pdb
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista de atividade 2\QT1\obj\Debug\net8.0\QT1.sourcelink.json
